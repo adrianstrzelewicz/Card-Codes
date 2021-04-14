@@ -1,0 +1,5 @@
+
+enum CardCodeActions {
+  EDIT,
+  REMOVE
+}
